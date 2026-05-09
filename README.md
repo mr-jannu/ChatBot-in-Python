@@ -5,11 +5,11 @@ Chatbot using Python.
 - Greeting replies
 - Simple conversation
 - Beginner friendly
+
 #Final Project Structure
 
-AI-Chatbot-Project/
-│
-├── chatbot.py
-├── README.md
-├── requirements.txt
-└── venv/
+AI-Chatbot-Project
+ chatbot.py
+ README.md
+ requirements.txt
+ venv
