@@ -1,5 +1,5 @@
 # ChatBot-in-Python
-chatbot using Python.
+Chatbot using Python.
 
 ## Features
 - Greeting replies
@@ -8,6 +8,7 @@ chatbot using Python.
 
 #Final Project Structure
 AI-Chatbot-Project/
+
 │
 ├── chatbot.py
 ├── README.md
