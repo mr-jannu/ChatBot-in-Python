@@ -7,9 +7,8 @@ Chatbot using Python.
 - Beginner friendly
 
 Final Project Structure
-AI-Chatbot-Project/
-│
-├── chatbot.py
-├── README.md
-├── requirements.txt
-└── venv/
+AI-Chatbot-Project
+1.chatbot.py
+2.README.md
+3.requirements.txt
+4.venv
