@@ -6,8 +6,7 @@ Chatbot using Python.
 - Simple conversation
 - Beginner friendly
 
-Final Project Structure
-AI-Chatbot-Project
+Final Project Structure : CHATBOT-IN-PYTHON
 1.chatbot.py
 2.README.md
 3.requirements.txt
