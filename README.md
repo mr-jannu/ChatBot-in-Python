@@ -9,7 +9,6 @@ Chatbot using Python.
 
 #Final Project Structure
 
-
 AI-Chatbot-Project/
 │
 ├── chatbot.py
